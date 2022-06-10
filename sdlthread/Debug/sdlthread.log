@@ -1,0 +1,3 @@
+﻿  sdlthread.cpp
+C:\Users\Administrator\source\repos\sdlthread\sdlthread.cpp(21): error C4716: “SDL_main”: 必须返回一个值
+C:\Users\Administrator\source\repos\sdlthread\sdlthread.cpp(11): error C4716: “MyThread”: 必须返回一个值
